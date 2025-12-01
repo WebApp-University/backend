@@ -1,0 +1,30 @@
+# Python cache
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+
+# Virtual environment
+venv/
+
+# Logs and database
+*.log
+*.sqlite3
+
+
+# IDE and system files
+.idea/
+*.swp
+
+# Git and CI/CD
+liquibase/
+.git/
+.github/
+.pre-commit-config.yaml
+.gitignore
+.dockerignore
+Dockerfile
+README.md
+
+# Spell checker config
+.cspell.json

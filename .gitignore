@@ -1,5 +1,25 @@
+**/*.tfstate
 
+__pycache__/
+*/__pycache__/
+__pycache__/ ignores any fold
+
+.idea/
+
+
+api/__pycache__/
+core/__pycache__/
+core/settings/__pycache__/
+apps/authentific/__pycache__/
+apps/calculations/__pycache__/
 
 
 venv/
-.idea/
+
+.venv/
+
+.tox/
+
+.env
+
+.coverage
