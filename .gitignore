@@ -12,6 +12,7 @@ core/__pycache__/
 core/settings/__pycache__/
 apps/authentific/__pycache__/
 apps/calculations/__pycache__/
+apps/system/__pycache__/
 
 
 venv/
